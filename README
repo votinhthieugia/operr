@@ -1,0 +1,3 @@
+Better solution for this might be a generic class which can handle multiple
+data types. Furthermore, a unit test should be used to verify the code. In the
+perspective of logic testing, this is a simple version which meets the demand.
